@@ -2,7 +2,7 @@
 	"name" : "SoS18MAX",
 	"version" : 1,
 	"creationdate" : 3622744495,
-	"modificationdate" : 3622794534,
+	"modificationdate" : 3622794816,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -15,7 +15,7 @@
 				"local" : 1,
 				"toplevel" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/patchers",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/patchers",
 					"projectrelativepath" : "./patchers"
 				}
 
@@ -30,7 +30,7 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/patchers",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/patchers",
 					"projectrelativepath" : "./patchers"
 				}
 
@@ -40,7 +40,7 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/patchers",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/patchers",
 					"projectrelativepath" : "./patchers"
 				}
 
@@ -50,7 +50,7 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/patchers/hue3",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/patchers/hue3",
 					"projectrelativepath" : "./patchers/hue3"
 				}
 
@@ -60,7 +60,7 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/patchers/hue3",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/patchers/hue3",
 					"projectrelativepath" : "./patchers/hue3"
 				}
 
@@ -70,7 +70,7 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/patchers",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/patchers",
 					"projectrelativepath" : "./patchers"
 				}
 
@@ -83,7 +83,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -93,7 +93,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -103,7 +103,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -113,7 +113,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -123,7 +123,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -133,7 +133,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -143,7 +143,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -153,7 +153,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -163,7 +163,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -173,7 +173,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -183,7 +183,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -193,7 +193,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -203,7 +203,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -213,7 +213,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -223,7 +223,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -233,7 +233,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -243,7 +243,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -253,7 +253,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/media/ScopaCards",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/media/ScopaCards",
 					"projectrelativepath" : "./media/ScopaCards"
 				}
 
@@ -263,7 +263,7 @@
 				"kind" : "imagefile",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/patchers",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/patchers",
 					"projectrelativepath" : "./patchers"
 				}
 
@@ -281,7 +281,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/patchers",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/patchers",
 					"projectrelativepath" : "./patchers"
 				}
 
@@ -291,7 +291,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -301,7 +301,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -311,7 +311,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -321,7 +321,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -331,7 +331,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -341,7 +341,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -351,7 +351,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -361,7 +361,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -371,7 +371,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -381,7 +381,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -391,7 +391,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -401,7 +401,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -411,7 +411,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -421,7 +421,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -431,7 +431,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -441,7 +441,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -451,7 +451,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -461,7 +461,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -471,7 +471,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -481,7 +481,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -491,7 +491,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -501,7 +501,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -511,7 +511,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -521,7 +521,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -531,7 +531,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -541,7 +541,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -551,7 +551,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -561,7 +561,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -571,7 +571,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -581,7 +581,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -591,7 +591,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -601,7 +601,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -611,7 +611,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -621,7 +621,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -631,7 +631,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -641,7 +641,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -651,7 +651,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -661,7 +661,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -671,7 +671,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -681,7 +681,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -691,7 +691,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -701,7 +701,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -711,7 +711,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -721,7 +721,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -731,7 +731,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -741,7 +741,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -751,7 +751,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -761,7 +761,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -771,7 +771,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -781,7 +781,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -791,7 +791,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -801,7 +801,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -811,7 +811,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -821,7 +821,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -831,7 +831,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -841,21 +841,26 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
 			}
 ,
 			"search.js" : 			{
-				"kind" : "javascript"
+				"kind" : "javascript",
+				"singleton" : 				{
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
+					"projectrelativepath" : "./code"
+				}
+
 			}
 ,
 			"timer.js" : 			{
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -865,7 +870,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -875,7 +880,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -885,7 +890,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -895,7 +900,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -905,7 +910,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -915,7 +920,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -925,7 +930,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -935,7 +940,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -945,7 +950,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -955,7 +960,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -965,7 +970,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -975,7 +980,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -985,7 +990,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -995,7 +1000,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1005,7 +1010,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1015,7 +1020,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1025,7 +1030,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1035,7 +1040,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1045,7 +1050,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1055,7 +1060,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1065,7 +1070,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1075,7 +1080,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1085,7 +1090,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1095,7 +1100,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1105,7 +1110,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1115,7 +1120,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1125,7 +1130,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1135,7 +1140,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1145,7 +1150,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1155,7 +1160,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1165,7 +1170,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1175,7 +1180,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1185,7 +1190,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1195,7 +1200,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1205,7 +1210,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1215,7 +1220,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1225,7 +1230,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1235,7 +1240,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1245,7 +1250,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1255,7 +1260,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1265,7 +1270,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1275,7 +1280,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1285,7 +1290,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1295,7 +1300,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1305,7 +1310,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1315,7 +1320,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1325,7 +1330,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1335,7 +1340,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1345,7 +1350,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1355,7 +1360,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1365,7 +1370,7 @@
 				"kind" : "javascript",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1383,7 +1388,7 @@
 				"kind" : "json",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1393,7 +1398,7 @@
 				"kind" : "json",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1403,7 +1408,7 @@
 				"kind" : "json",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1420,7 +1425,7 @@
 				"kind" : "file",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1430,7 +1435,7 @@
 				"kind" : "file",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1440,7 +1445,7 @@
 				"kind" : "file",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1450,7 +1455,7 @@
 				"kind" : "file",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1460,7 +1465,7 @@
 				"kind" : "file",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1470,25 +1475,35 @@
 				"kind" : "file",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
 			}
 ,
 			"README.md" : 			{
-				"kind" : "file"
+				"kind" : "file",
+				"singleton" : 				{
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
+					"projectrelativepath" : "./code"
+				}
+
 			}
 ,
 			"LICENSE" : 			{
-				"kind" : "file"
+				"kind" : "file",
+				"singleton" : 				{
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
+					"projectrelativepath" : "./code"
+				}
+
 			}
 ,
 			"UPGRADE_GUIDE.md" : 			{
 				"kind" : "file",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1498,7 +1513,7 @@
 				"kind" : "yaml",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1508,7 +1523,7 @@
 				"kind" : "file",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1518,7 +1533,7 @@
 				"kind" : "file",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1528,25 +1543,35 @@
 				"kind" : "yaml",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
 			}
 ,
 			"makefile" : 			{
-				"kind" : "file"
+				"kind" : "file",
+				"singleton" : 				{
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
+					"projectrelativepath" : "./code"
+				}
+
 			}
 ,
 			"LICENSE.md" : 			{
-				"kind" : "file"
+				"kind" : "file",
+				"singleton" : 				{
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
+					"projectrelativepath" : "./code"
+				}
+
 			}
 ,
 			"mocha.opts" : 			{
 				"kind" : "file",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1556,7 +1581,7 @@
 				"kind" : "file",
 				"local" : 1,
 				"singleton" : 				{
-					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/code",
+					"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
 					"projectrelativepath" : "./code"
 				}
 
@@ -1571,6 +1596,21 @@
 	}
 ,
 	"searchpath" : 	{
+		"0" : 		{
+			"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/code",
+			"projectrelativepath" : "./code",
+			"label" : "",
+			"recursive" : 1,
+			"enabled" : 1
+		}
+,
+		"1" : 		{
+			"bootpath" : "~/Documents/GitHub/SoS18/SoS18MAX/externals",
+			"projectrelativepath" : "./externals",
+			"label" : "",
+			"recursive" : 1,
+			"enabled" : 1
+		}
 
 	}
 ,
