@@ -1,0 +1,157 @@
+<jittershader name="default">
+	<description> Default Slab </description>
+	<param name="windowsize" type="vec2"  default="1024.0 1024.0" />
+	<param name="time" 		 type="float" default="0.0" />
+	<param name="mousePos"   type="vec2"  default="0.0 0.0" />
+	<param name="size"       type="float" default="30.0" />
+	<language name="glsl" version="1.2">
+		<bind param="windowsize" program="fp" />
+		<bind param="time" program="fp" />		
+		<bind param="mousePos" program="fp" />
+		<bind param="size"     program="fp" />
+		<program name="vp" type="vertex">
+<![CDATA[
+varying vec2 texcoord;
+varying vec2 texdim0;
+
+void main (void)
+{
+    gl_Position = ftransform();
+    texcoord    = vec2(gl_TextureMatrix[0] * gl_MultiTexCoord0);
+	texdim0 = vec2 (abs(gl_TextureMatrix[0][0][0]),abs(gl_TextureMatrix[0][1][1]));
+}
+]]>		
+		</program>
+		<program name="fp" type="fragment">
+<![CDATA[
+varying vec2 texcoord;
+varying vec2 texdim0;
+uniform sampler2DRect tex0;
+uniform vec2 windowsize;
+uniform float time;
+uniform vec2 mousePos;
+uniform float size;
+
+// distance to a line
+float DistLine(vec2 p, vec2 a, vec2 b) {
+	vec2 pa = p-a;
+	vec2 ba = b-a;
+	float t = clamp(dot(pa, ba) / dot(ba, ba), 0.0, 1.0);
+	return length(pa - ba*t);
+}
+
+float N21(vec2 p) 
+{
+	p = fract(p*vec2(233.34, 851.73));
+	p += dot(p, p+23.45);
+	return fract(p.x*p.y); 
+}
+
+vec2 N22(vec2 p) 
+{
+	float n = N21(p);
+	return vec2(n, N21(p+n));
+}
+
+vec2 GetPos(vec2 id, vec2 offs) 
+{
+	vec2 n = N22(id+offs)*time;
+	
+//	float x = sin(time*n.x);
+//	float y = cos(time*n.y);
+	
+	return offs + sin(n)*0.4;
+}
+
+float Line(vec2 p, vec2 a, vec2 b) 
+{
+	float d = DistLine(p, a, b);
+	float m = smoothstep(0.03, 0.01, d); // Thickness of the line
+	float d2 = length(a-b);
+	m *= smoothstep(1.2, 0.8, d2)*0.5 + smoothstep(0.05, 0.03, abs(d2-0.75)); // Fade with distance
+	return m;
+}
+
+float Layer(vec2 uv) {
+	float m = 0.0;
+	vec2 gv = fract(uv)-0.5;
+	vec2 id = floor(uv);
+	
+	//vec2 p = GetPos(id);
+	
+	//float d = length(gv-p);
+	//m = smoothstep(0.1, 0.05, d);
+	
+	// Get the position of adiacent points
+	vec2 p[9];
+	
+	int i = 0;
+	for(float y=-1.0; y<=1.0; y++) {
+		for(float x=-1.0; x<=1.0; x++) {
+			p[i++] = GetPos(id, vec2(x, y));
+		}
+	}
+	
+	float t = time * 10.0;
+	for(int i=0; i<9; i++) {
+		m += Line(gv, p[4], p[i]);
+		
+		vec2 j = (p[i]-gv) * 12.0;
+		float sparkle = 1.0 / dot(j,j);
+		
+		//float sPhase = (sin(t+n)+sin(t*0.1))*0.25+0.5;
+		//sPhase += pow(sin(t*0.1)*0.5+0.5, 50.0)*5.0;
+		
+		//m += sparkle*sPhase;
+		m += sparkle*(sin(t+fract(p[i].x)*10.0)*0.5+0.5);
+	}	
+	// Lines that intersect other lines
+	m += Line(gv, p[1], p[3]);
+	m += Line(gv, p[1], p[5]);
+	m += Line(gv, p[5], p[7]);
+	m += Line(gv, p[7], p[3]);
+	
+	return m;
+}
+
+void main(void) 
+{	
+	vec2 uv = (texcoord - 0.5*texdim0.xy) / texdim0.xy; 
+	uv.x *= windowsize.x/windowsize.y;
+	uv.y *= -1.0;
+	
+	vec2 mouse = mousePos; 
+	mouse.y *= -1.0;
+	
+	float gradient = uv.y;
+	
+	float m = 0.0;
+	float t = time*0.1;
+	
+	float s = sin(t);
+	float c = cos(t);
+	mat2 rot = mat2(c, -s, s, c);
+	
+	uv *= rot; // Rotate the coordinates
+	mouse *= rot;
+	
+	for(float i=0.0; i<1.0; i+=1./4.) {
+		float z = fract(i+t);
+		float size = mix(size, 1.0, z);
+		float fade = smoothstep(0.0, 0.65, z)*smoothstep(1.0, 0.8, z);
+		m += Layer(uv * size+i*20.0 - mouse)*fade;
+	}
+		
+	vec3 base = sin(t*5.0*vec3(0.345, 0.456, 0.657)) * 0.4 + 0.6;
+	vec3 col = vec3(m)*base;
+	col -= gradient*base;
+	
+	// Grid drawing
+	//if(gv.x > 0.48 || gv.y > 0.48) col = vec3(1.0, 0.0, 0.0);
+	
+	gl_FragColor = vec4(col, 1.0);
+}
+]]>
+		</program>
+	</language>
+</jittershader>
