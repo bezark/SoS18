@@ -2,12 +2,12 @@
 	"name" : "SoS18MAX",
 	"version" : 1,
 	"creationdate" : 3622744495,
-	"modificationdate" : 3623333884,
-	"viewrect" : [ 1170.0, 148.0, 300.0, 500.0 ],
+	"modificationdate" : 3623334878,
+	"viewrect" : [ 983.0, 153.0, 300.0, 500.0 ],
 	"autoorganize" : 0,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
-	"autolocalize" : 0,
+	"autolocalize" : 1,
 	"contents" : 	{
 		"patchers" : 		{
 			"symposium.maxpat" : 			{
@@ -21,11 +21,6 @@
 
 			}
 ,
-			"art_of_code_01.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
 			"param.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
@@ -34,6 +29,16 @@
 			"n4m.monitor.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
+			}
+,
+			"art_of_code_01.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/GitHub/SymposiumofSpirits18/SoS18MAX/patchers",
+					"projectrelativepath" : "./patchers"
+				}
+
 			}
 ,
 			"SensorTester.maxpat" : 			{
@@ -296,6 +301,11 @@
 		}
 ,
 		"code" : 		{
+			"resize_n4m_monitor_patcher.js" : 			{
+				"kind" : "javascript",
+				"local" : 1
+			}
+,
 			"art_of_code.jxs" : 			{
 				"kind" : "shader",
 				"local" : 1,
@@ -314,11 +324,6 @@
 					"projectrelativepath" : "./code"
 				}
 
-			}
-,
-			"resize_n4m_monitor_patcher.js" : 			{
-				"kind" : "javascript",
-				"local" : 1
 			}
 ,
 			"axios.min.js" : 			{
@@ -1440,6 +1445,35 @@
 		}
 ,
 		"externals" : 		{
+			"Lchange.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"jit.mo.join.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"jit.mo.func.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"jit.mo.time.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"ease.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"mira.status.mxo" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
 
 		}
 ,
@@ -1588,6 +1622,11 @@
 					"projectrelativepath" : "./code"
 				}
 
+			}
+,
+			"Kingthings Trypewriter 2.ttf" : 			{
+				"kind" : "file",
+				"local" : 1
 			}
 
 		}
