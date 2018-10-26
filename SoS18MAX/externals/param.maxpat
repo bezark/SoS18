@@ -2,16 +2,15 @@
 	"patcher" : 	{
 		"fileversion" : 1,
 		"appversion" : 		{
-			"major" : 7,
-			"minor" : 3,
-			"revision" : 5,
-			"architecture" : "x86",
+			"major" : 8,
+			"minor" : 0,
+			"revision" : 1,
+			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
+		"classnamespace" : "box",
 		"rect" : [ 47.0, 79.0, 707.0, 475.0 ],
-		"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
-		"editing_bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -46,8 +45,7 @@
 					"maxclass" : "outlet",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 15.0, 97.0, 30.0, 30.0 ],
-					"style" : ""
+					"patching_rect" : [ 15.0, 97.0, 30.0, 30.0 ]
 				}
 
 			}
@@ -59,7 +57,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 15.0, 49.0, 109.0, 22.0 ],
-					"style" : "",
 					"text" : "prepend param #1"
 				}
 
@@ -73,8 +70,7 @@
 					"numinlets" : 0,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 15.0, 10.0, 30.0, 30.0 ],
-					"style" : ""
+					"patching_rect" : [ 15.0, 10.0, 30.0, 30.0 ]
 				}
 
 			}
@@ -101,12 +97,12 @@
 		"elementcolor" : [ 0.486275, 0.552941, 0.584314, 1.0 ],
 		"accentcolor" : [ 0.337255, 0.329412, 0.415686, 1.0 ],
 		"textcolor_inverse" : [ 0.976471, 0.909804, 0.792157, 1.0 ],
+		"bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
+		"editing_bgcolor" : [ 0.572549, 0.47451, 0.447059, 1.0 ],
 		"bgfillcolor_type" : "gradient",
 		"bgfillcolor_color1" : [ 0.337255, 0.329412, 0.415686, 1.0 ],
 		"bgfillcolor_color2" : [ 0.223529, 0.164706, 0.254902, 1.0 ],
-		"bgfillcolor_color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
-		"bgfillcolor_angle" : 270.0,
-		"bgfillcolor_proportion" : 0.39
+		"bgfillcolor_color" : [ 0.290196, 0.309804, 0.301961, 1.0 ]
 	}
 
 }
